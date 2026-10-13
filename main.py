@@ -16,7 +16,7 @@ app.add_middleware(
 )
 
 API_KEY = "ak_tlib1zyt7vbs2iopv48k0odb"
-EMAIL = os.environ.get("EMAIL", "YOUR_EMAIL@example.com")
+EMAIL = os.environ.get("EMAIL", "24f3003188@ds.study.iitm.ac.in")
 
 
 class Event(BaseModel):
